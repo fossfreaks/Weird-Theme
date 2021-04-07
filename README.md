@@ -1,5 +1,5 @@
-# Weird Theme :last_quarter_moon_with_face:
-## A Dip of some cool colors with dark material theme. :snowflake:
+# Weird Theme 🌜
+## A Dip of some cool colors with dark material theme. ❄️
 ### Screenshots
 
 
@@ -13,7 +13,7 @@
 ### Feature
 - I have added separate colors to indicate whether, folder is opened or not. which is not set in most of the VS Code Theme.
 
-### Note :memo:
+### Note 📝
 - This theme is based on my personal preference, if you wish, fork and change it according to your wish
 
 ### Changelogs
