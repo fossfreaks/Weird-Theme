@@ -25,7 +25,12 @@
                 "label": "Weird Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Weird Theme-color-theme.json"
-            }
+            },
+			{
+				"label": "Glitchy Green",
+				"uiTheme": "vs-dark",
+				"path": "./themes/glitchly-green.json"
+			}
         ]
     }
 }
