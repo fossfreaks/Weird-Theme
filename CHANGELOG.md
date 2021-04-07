@@ -1,5 +1,8 @@
 # Change Log
 
+
+## v1.0.2 - 07 March 2021
+- Fix Glitchy-Green Theme not displayed
 ## v1.0.1 - 07 March 2021
 - Added Glitchy-Green Theme
 - bumped to v1.0.1
