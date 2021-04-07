@@ -1,0 +1,21 @@
+{
+    "name": "weird-theme",
+    "displayName": "weird theme",
+    "description": "A weird theme for VSCode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Weird Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Weird Theme-color-theme.json"
+            }
+        ]
+    }
+}
