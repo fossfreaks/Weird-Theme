@@ -792,7 +792,7 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#ffbf00"
       }
     },
@@ -800,7 +800,7 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#78d1e1"
       }
     },
@@ -1920,7 +1920,7 @@
     "editorLineNumber.foreground": "#8c8c8c",
     "editorCursor.foreground": "#ffffff",
     "editorCursor.background": "#000000",
-    "editor.selectionBackground": "#8753dd4c",
+    "editor.selectionBackground": "#ffffff5a",
     "editor.inactiveSelectionBackground": "#8753dd14",
     "editorWhitespace.foreground": "#e3e4e229",
     "editor.selectionHighlightBackground": "#8753dd22",

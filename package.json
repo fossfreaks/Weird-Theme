@@ -2,10 +2,11 @@
     "name": "weird-theme",
     "displayName": "weird theme",
     "description": "A weird theme for VSCode",
+	"icon": "assets/logo.png",
 	"repository": {
 		"url": "https://github.com/fossfreaks/Weird-Theme"
 	},
-    "version": "0.0.1",
+    "version": "1.0.0",
 	"publisher": "fossfreaks",
 	"author": {
 		"email": "contact@fossfreaks.com",
