@@ -15,3 +15,7 @@
 
 ### Note :memo:
 - This theme is based on my personal preference, if you wish, fork and change it according to your wish
+
+### Changelogs
+
+- Checkout the [CHANGELOG.md](CHANGELOG.md) for changelogs
